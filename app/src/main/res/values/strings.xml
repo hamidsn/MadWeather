@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MadWeather</string>
+    <string name="api_key">b7f9c331cc2ecb71</string>
+    <string name="base_url">http://api.wunderground.com/api/</string>
+    <string name="method_guid">/forecast/q/</string>
+    <string name="fileFormat">.json</string>
+    <string name="harcoded_location">-33.8650,151.2094</string>
+    <string name="general_error">Unknown error, data returned null</string>
+    <string name="no_connection">No internet connection. Try again later</string>
+</resources>
